@@ -1,3 +1,5 @@
+//Q12. Write a program to illustrate the concept of Single inheritance
+
 class Animal {
 	void eat() {
 		System.out.println("Animal is eating");

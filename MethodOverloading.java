@@ -1,4 +1,4 @@
-// A simple Java program to illustrate method overloading
+//Q11. Write a program to illustrate the concept of class with Method overloading.
 class MethodOverloading {
     int add(int a, int b) {
         return a + b;

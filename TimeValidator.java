@@ -1,3 +1,4 @@
+//Q14. 14.	Write an exception class for a time of day that can accept only 24 hour representation of clock hours. Write a java program to input various formats of timings and throw suitable error messages.
 
 import java.util.Scanner;
 class InvalidTimeException extends Exception {
